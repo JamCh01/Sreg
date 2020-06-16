@@ -1,12 +1,13 @@
-### 暂停维护
-
 ----
 
 ### Sreg V1.0
+<p align="center">
+<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
+</p>
 
 - AppName: Sreg [Search Registration]
 - Create:  2015-03-03
-- Author:  Dave, Evi1m0, Hel
+- Author:  [Dave](https://github.com/DavexPro), [Evi1m0](https://github.com/evi1m0), Hel
 - Website: [http://n0tr00t.github.io/Sreg/](http://n0tr00t.github.io/Sreg/)
 
 
