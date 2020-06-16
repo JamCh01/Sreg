@@ -2,8 +2,9 @@
 
 ### Sreg V1.0
 <p align="center">
-<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
-</p>
+<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
+</p>    
+  
 
 - AppName: Sreg [Search Registration]
 - Create:  2015-03-03
